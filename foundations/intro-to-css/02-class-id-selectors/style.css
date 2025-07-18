@@ -1,0 +1,18 @@
+.red-box {
+  background-color: rgb(211, 51, 91);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-frame {
+  color: rgb(30, 0, 139);
+  font-size: 36px;
+}
+
+.size-box {
+  font-size: 24px;
+}
+
+#green-box {
+  background-color: rgb(50, 181, 33);
+  font-weight: bold;
+}
